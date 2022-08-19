@@ -1,16 +1,24 @@
 {
-    "name": "paytm-website-clone",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "build": "tailwindcss -i ./input.css -o ./css/style.css",
-        "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "devDependencies": {
-        "tailwindcss": "^3.1.8"
-    }
+  "name": "paytm-website-clone",
+  "version": "1.0.0",
+  "description": "![image](https://img.shields.io/badge/iNeuron-Full--Stack%20JavaScript%20Web%20Development%20Course-blue)\r ![image](https://img.shields.io/badge/Hitesh%20Choudhry-LOC-brightgreen)\r ![image](https://img.shields.io/badge/HTML-CSS-orange)\r ![image](https://img.shields.io/badge/Project-PAYTM-blue)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/style.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhaskarsahu23/FSJS-INEURON-PAYTM-CLONE-WEBSITE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bhaskarsahu23/FSJS-INEURON-PAYTM-CLONE-WEBSITE/issues"
+  },
+  "homepage": "https://github.com/Bhaskarsahu23/FSJS-INEURON-PAYTM-CLONE-WEBSITE#readme"
 }
