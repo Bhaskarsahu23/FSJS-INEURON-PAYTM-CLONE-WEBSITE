@@ -1,3 +1,5 @@
+![image](./screenshot/banner.png)
+
 # PAYTM-WEBSITE-CLONE
 
 ![image](https://img.shields.io/badge/iNeuron-Full--Stack%20JavaScript%20Web%20Development%20Course-blue)
